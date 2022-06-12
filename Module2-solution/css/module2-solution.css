@@ -10,6 +10,7 @@ section {
   background-color: beige;
   border: 1px solid black;    
   overflow: auto;
+  margin: 0px;
 }
 
 h2 {
@@ -22,6 +23,7 @@ h2 {
 }
 
 p {
+    margin: 0px;
     width: 90%;
     padding: 10px;
     clear: right;
