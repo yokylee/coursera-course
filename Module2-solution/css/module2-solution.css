@@ -27,6 +27,7 @@ h2 {
 }
 
 p {
+    width: 90%;
     padding: 10px;
     clear: right;
 }
