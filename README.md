@@ -7,3 +7,6 @@
 
 ### Module 3 ###
 [Solution](https://yokylee.github.io/coursera-course/module3-solution/module3-solution.index.html)
+
+### Module 4 ###
+[Solution](https://yokylee.github.io/coursera-course/module4-solution/module4.solution.index.html)
