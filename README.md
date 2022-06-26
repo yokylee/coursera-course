@@ -10,3 +10,6 @@
 
 ### Module 4 ###
 [Solution](https://yokylee.github.io/coursera-course/module4-solution/module4.solution.index.html)
+
+### Module 5 ###
+[Solution](https://yokylee.github.io/coursera-course/module5-solution/index.html)
